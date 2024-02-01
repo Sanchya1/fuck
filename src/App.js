@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Sanchya IS pagal and satvik is a good boy
         </a>
       </header>
     </div>
