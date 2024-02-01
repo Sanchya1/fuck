@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sanchya IS pagal and satvik isa good boy
+          Sanchya IS pagal and satvik is a good boy
         </a>
       </header>
     </div>
